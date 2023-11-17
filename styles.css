@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-right:100px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+#calculateBtn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.tm-footer {
+  padding: 25px 15px;
+  margin-top: 40px;
+}
+
+.tm-footer a {
+  color: #626364;
+  text-decoration: none;
+}
+
+.tm-footer a:hover {
+  color: #1A6692;
+}
